@@ -1,0 +1,7 @@
+C:\Users\Woooo\AppData\Local\Temporary Projects\ConsoleApplication3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Woooo\AppData\Local\Temporary Projects\ConsoleApplication3\bin\Release\ConsoleApplication3.exe
+C:\Users\Woooo\AppData\Local\Temporary Projects\ConsoleApplication3\bin\Release\ConsoleApplication3.pdb
+C:\Users\Woooo\AppData\Local\Temporary Projects\ConsoleApplication3\obj\Release\ConsoleApplication3.exe
+C:\Users\Woooo\AppData\Local\Temporary Projects\ConsoleApplication3\obj\Release\ConsoleApplication3.pdb
+C:\Users\Woooo\Documents\Visual Studio 2008\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.exe
+C:\Users\Woooo\Documents\Visual Studio 2008\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.pdb
